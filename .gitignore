@@ -1,0 +1,18 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.dmp
+
+# --- 自定义美术资源忽略 (网盘同步部分) ---
+# 注意：如果文件夹名有空格，建议加引号，路径区分大小写
+Content/External_Assets/
+Plugins/Voxel/
