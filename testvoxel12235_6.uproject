@@ -29,6 +29,10 @@
 		{
 			"Name": "BlueprintFileUtils",
 			"Enabled": true
+		},
+		{
+			"Name": "GeoReferencing",
+			"Enabled": true
 		}
 	]
 }
